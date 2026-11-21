@@ -1,0 +1,19 @@
+# Build artifacts
+build/
+cmake-build-*/
+*.o
+*.d
+*.a
+can_node
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs & OS
+*.log
+.DS_Store
+Thumbs.db
